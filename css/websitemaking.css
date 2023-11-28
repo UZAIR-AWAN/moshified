@@ -831,6 +831,7 @@ a {
 .feature {
     gap: 4rem;
     margin: 1rem 0;
+        padding-left: 0;
 }
 
 .feature:first-of-type {
